@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YesFisrtTest</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test_actibity">TestActibity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="test_view">test_view</string>
+
+    <string name="test_view3">test_view</string>
+    <string name="test_view34">test_view</string>
+
+
+</resources>
